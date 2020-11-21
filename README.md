@@ -7,7 +7,8 @@ Experienced software developer with more than 20 years of experience in diverse 
 Software Development and Coding, Software Architecture / Design, Project Management, Offshore / Distributed Team Management.
 
 Backend: C#, Python, Tensorflow, Keras, SQL Server. TFS, Git.
-Frontend: HTML, CSS, JavaScript, React.js, UX/UI. 
+
+Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI. 
 
 
 # Coderhouse After Classes
