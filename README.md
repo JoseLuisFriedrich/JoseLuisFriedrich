@@ -14,17 +14,17 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 # Coderhouse After Classes
 
 2020-11-20 - React.js - Simil Netflix (Integrador)
-- [YouTube](https://youtu.be/OyG5aqfeIQo){:target="_blank"}
-- [Repository](../../../coder-react.js-2020-11-20-simil-netflix){:target="_blank"}
+- [YouTube](https://youtu.be/OyG5aqfeIQo)
+- [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
 
 2020-11-17 - React.js - Consultas generales
-- [YouTube](https://youtu.be/Mxd4vxF9s68){:target="_blank"}
-- [Repository](../../../coder-react.js-2020-11-17-consultas-generales){:target="_blank"}
+- [YouTube](https://youtu.be/Mxd4vxF9s68)
+- [Repository](../../../coder-react.js-2020-11-17-consultas-generales)
 
 2020-11-13 - React.js - Clone Instagram (Integrador)
-- [YouTube](https://youtu.be/GJQ6npfucw8){:target="_blank"}
-- [Repository](../../../coder-react.js-2020-11-13-clone-instagram){:target="_blank"}
+- [YouTube](https://youtu.be/GJQ6npfucw8)
+- [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
 2020-11-03 - React.js - Hooks
-- [YouTube](https://youtu.be/vCa8SWxzkZM){:target="_blank"}
-- [Repository](../../../coder-react.js-2020-11-03-hooks){:target="_blank"}
+- [YouTube](https://youtu.be/vCa8SWxzkZM)
+- [Repository](../../../coder-react.js-2020-11-03-hooks)
