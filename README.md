@@ -10,7 +10,7 @@ Backend: C#, Python, Tensorflow, Keras, SQL Server. TFS, Git.
 
 Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
-[LinkIn](https://www.linkedin.com/in/joseluisfriedrich/)
+[LinkIn - José Luis Friedrich](https://www.linkedin.com/in/joseluisfriedrich/)
 
 # Coderhouse After Classes
 
