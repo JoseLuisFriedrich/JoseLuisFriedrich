@@ -8,8 +8,9 @@ Software Development and Coding, Software Architecture / Design, Project Managem
 
 Backend: C#, Python, Tensorflow, Keras, SQL Server. TFS, Git.
 
-Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI. 
+Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
+[LinkIn](https://www.linkedin.com/in/joseluisfriedrich/)
 
 # Coderhouse After Classes
 
