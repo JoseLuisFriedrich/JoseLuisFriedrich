@@ -13,13 +13,18 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 # Coderhouse After Classes
 
-2020-11-20 - React.js - Simil Netflix (Integrador) - [YouTube](https://youtu.be/OyG5aqfeIQo) - [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
+2020-11-20 - React.js - Simil Netflix (Integrador)
+- [YouTube](https://youtu.be/OyG5aqfeIQo)
+- [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
 
 2020-11-17 - React.js - Consultas generales
-https://youtu.be/Mxd4vxF9s68
+- [YouTube](https://youtu.be/Mxd4vxF9s68)
+- [Repository](../../../coder-react.js-2020-11-17-consultas-generales)
 
 2020-11-13 - React.js - Clone Instagram (Integrador)
-https://youtu.be/GJQ6npfucw8
+- [YouTube](https://youtu.be/GJQ6npfucw8)
+- [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
 2020-11-03 - React.js - Hooks
-https://youtu.be/vCa8SWxzkZM
+- [YouTube](https://youtu.be/vCa8SWxzkZM)
+- [Repository](../../../coder-react.js-2020-11-03-hooks)
