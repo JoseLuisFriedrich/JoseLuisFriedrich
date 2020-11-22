@@ -1,6 +1,6 @@
 ![José Luis Friedrich](background.jpg)
 
-# https://www.linkedin.com/in/joseluisfriedrich/
+# https://www.linkedin.com/in/joseluisfriedrich
 
 Experienced software developer with more than 20 years of experience in diverse technology areas such as backend applications using .NET and machine learning using Python and Tensorflow.
 
@@ -10,7 +10,7 @@ Backend: C#, Python, Tensorflow, Keras, SQL Server. TFS, Git.
 
 Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
-[LinkIn - José Luis Friedrich](https://www.linkedin.com/in/joseluisfriedrich/)
+[LinkIn - José Luis Friedrich](https://www.linkedin.com/in/joseluisfriedrich)
 
 # Coderhouse After Classes
 
