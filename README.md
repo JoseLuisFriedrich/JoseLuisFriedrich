@@ -12,7 +12,17 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 [LinkIn - José Luis Friedrich](https://www.linkedin.com/in/joseluisfriedrich)
 
-# Coderhouse After Classes
+# Coderhouse After Classes (Destacados)
+
+### 2020-11-20 - React.js - Simil Netflix (Integrador)
+- [YouTube](https://youtu.be/OyG5aqfeIQo)
+- [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
+
+### 2020-11-13 - React.js - Clone Instagram (Integrador)
+- [YouTube](https://youtu.be/GJQ6npfucw8)
+- [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
+
+# Coderhouse After Classes (Todos)
 
 2020-11-27 - React.js - useContext, Consultas generales
 - [YouTube](https://youtu.be/lu5lq7P-G-k)
