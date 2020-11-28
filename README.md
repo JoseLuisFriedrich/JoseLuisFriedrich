@@ -26,7 +26,7 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 - [YouTube](https://youtu.be/Mxd4vxF9s68)
 - [Repository](../../../coder-react.js-2020-11-17-consultas-generales)
 
-### 2020-11-13 - React.js - Clone Instagram (Integrador)
+### + 2020-11-13 - React.js - Clone Instagram (Integrador)
 - [YouTube](https://youtu.be/GJQ6npfucw8)
 - [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
