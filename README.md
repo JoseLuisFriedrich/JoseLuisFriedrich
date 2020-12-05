@@ -24,6 +24,10 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 # Coderhouse After Classes (Todos)
 
+### 2020-12-04 - React.js - useContext, Consultas generales
+- [YouTube](https://youtu.be/ffN8vOBH5ZE)
+- [Repository](../../../coder-react.js-2020-12-04-consultas-generales)
+
 ### 2020-11-27 - React.js - useContext, Consultas generales
 - [YouTube](https://youtu.be/lu5lq7P-G-k)
 - [Repository](../../../coder-react.js-2020-11-27-context)
