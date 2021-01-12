@@ -14,36 +14,36 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 # Coderhouse After Classes (Destacados)
 
-### 2020-11-20 - React.js - Simil Netflix (Integrador)
+### 2020-11-20 - React.js (Camada 11305) - Simil Netflix (Integrador)
 - [YouTube](https://youtu.be/OyG5aqfeIQo)
 - [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
 
-### 2020-11-13 - React.js - Clone Instagram (Integrador)
+### 2020-11-13 - React.js (Camada 11305) - Clone Instagram (Integrador)
 - [YouTube](https://youtu.be/GJQ6npfucw8)
 - [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
 # Coderhouse After Classes (Todos)
 
-### 2020-12-04 - React.js - useContext, Consultas generales
+### 2020-12-04 - React.js (Camada 11305) - useContext, Consultas generales
 - [YouTube](https://youtu.be/ffN8vOBH5ZE)
 - [Repository](../../../coder-react.js-2020-12-04-consultas-generales)
 
-### 2020-11-27 - React.js - useContext, Consultas generales
+### 2020-11-27 - React.js (Camada 11305) - useContext, Consultas generales
 - [YouTube](https://youtu.be/lu5lq7P-G-k)
 - [Repository](../../../coder-react.js-2020-11-27-context)
 
-### 2020-11-20 - React.js - Simil Netflix (Integrador)
+### 2020-11-20 - React.js (Camada 11305) - Simil Netflix (Integrador)
 - [YouTube](https://youtu.be/OyG5aqfeIQo)
 - [Repository](../../../coder-react.js-2020-11-20-simil-netflix)
 
-### 2020-11-17 - React.js - Consultas generales
+### 2020-11-17 - React.js (Camada 11305) - Consultas generales
 - [YouTube](https://youtu.be/Mxd4vxF9s68)
 - [Repository](../../../coder-react.js-2020-11-17-consultas-generales)
 
-### 2020-11-13 - React.js - Clone Instagram (Integrador)
+### 2020-11-13 - React.js (Camada 11305) - Clone Instagram (Integrador)
 - [YouTube](https://youtu.be/GJQ6npfucw8)
 - [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
-### 2020-11-03 - React.js - Hooks
+### 2020-11-03 - React.js (Camada 11305) - Hooks
 - [YouTube](https://youtu.be/vCa8SWxzkZM)
 - [Repository](../../../coder-react.js-2020-11-03-hooks)
