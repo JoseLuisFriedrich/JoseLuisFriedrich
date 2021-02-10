@@ -28,6 +28,11 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 # Coderhouse After Classes (Todos)
 
+
+### 2021-02-09 - React.js (Camada 11365) - firebase, useContext, props con eventos
+- [YouTube](https://youtu.be/2KO6ktDCxPI)
+- [Repository](../../../coder-react.js-2021-02-09-consultas-generales)
+
 ### 2021-01-19 - React.js (Camada 11365) - Clone TikTok (Integrador)
 - [YouTube](https://youtu.be/ZKYcJ8RRuCA)
 - [Repository](../../../coder-react.js-2021-01-19-clone-tiktok)
