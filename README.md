@@ -12,7 +12,8 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 
 [LinkIn - José Luis Friedrich](https://www.linkedin.com/in/joseluisfriedrich)
 
-# Coderhouse After Classes (Destacados)
+
+# Coderhouse - After Classes - Destacados
 
 ### 2021-01-19 - React.js - Camada 11365 - Clone TikTok (Integrador)
 - [YouTube](https://youtu.be/ZKYcJ8RRuCA)
@@ -26,8 +27,8 @@ Frontend: HTML, CSS, SCSS, JavaScript, React.js, UX/UI.
 - [YouTube](https://youtu.be/GJQ6npfucw8)
 - [Repository](../../../coder-react.js-2020-11-13-clone-instagram)
 
-# Coderhouse After Classes (Todos)
 
+# Coderhouse - After Classes - Todos
 
 ### 2021-02-09 - React.js - Camada 11365 - firebase, useContext, props con eventos
 - [YouTube](https://youtu.be/2KO6ktDCxPI)
